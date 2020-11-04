@@ -1,1 +1,1 @@
-# MemberRegistrator
+# ASP.NET CORE API && ÇOK KATMANLI MİMARİ
